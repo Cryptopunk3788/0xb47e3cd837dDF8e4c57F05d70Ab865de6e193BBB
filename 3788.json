@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "VisualArtwork",
+	//"@id": "https://github.com/Cryptopunk3788/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB/3788.json",
+	"identifier": "urn:nft:ethereum-mainnet:0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB:3788",
+	"character": {
+		"@type": "Person",
+		"name": "Cryptopunk #3788",
+		"gender": "Female",
+		"owns": [ {
+			"@type": "Product",
+			"name": "Black_Lipstick",
+			"url": "https://www.larvalabs.com/cryptopunks/search?query=Black+Lipstick"},
+			{
+			"@type": "Product",
+			"name": "Bandana",
+			"url": "https://www.larvalabs.com/cryptopunks/search?query=Bandana"}
+		]
+	},
+	//"dateCreated": "2018-03-17T12:22:48+0100",
+	"artform": "Pixel picture",
+	"schemaVersion": "http://schema.org/version/3.3/",
+	"artMedium": "Digital",
+	"image": "https://www.larvalabs.com/cryptopunks/cryptopunk3788.png",
+	"sameAs": "https://www.larvalabs.com/cryptopunks/details/3788",
+	"alternateName": "@Cryptopunk3788",
+	"name": "Cryptopunk #3788",
+	"url": "https://www.larvalabs.com/cryptopunks/details/3788"
+}
+</script>

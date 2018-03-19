@@ -26,6 +26,16 @@
 	"sameAs": "https://www.larvalabs.com/cryptopunks/details/3788",
 	"alternateName": "@Cryptopunk3788",
 	"name": "Cryptopunk #3788",
-	"url": "https://www.larvalabs.com/cryptopunks/details/3788"
+	"url": "https://www.larvalabs.com/cryptopunks/details/3788",
+	"creator": {
+		"@type": "Organization",
+		"sameAs": "https://twitter.com/larvalabs",
+		"email": "info@larvalabs.com",
+		"name": "Larva Labs",
+		"logo": "https://www.larvalabs.com/public/images/favicon.ico",
+		"description": " We started Larva Labs to write apps for the T-Mobile Sidekick and ended up writing over fifty, including several of the best selling apps on the platform. We moved on to Android and iOS and have written over twenty more apps for those platforms. At one point we had apps near the top of the charts on both platforms at the same time.1 We've also been lucky enough to work with great clients like Google and Microsoft2 where we've done a whole bunch of stuff we are super proud of.  We don't just write mobile apps though. We've done projects that range from large e-commerce websites to genomics analysis software to 8-bit roleplaying games. For a while we described ourselves as programmers, developers, or engineers but it seems these days the best term is “Creative Technologist.” ",
+		"url": "https://www.larvalabs.com/",
+		"@id": "http://schemaapp.com/db/Freelance6/Cryptopunks/nft/ethereum-mainnet/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB/3788#PersonOrOrganization"
+	}
 }
 </script>

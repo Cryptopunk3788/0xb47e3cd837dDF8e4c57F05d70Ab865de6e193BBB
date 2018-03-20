@@ -27,6 +27,15 @@
 	"alternateName": "@Cryptopunk3788",
 	"name": "Cryptopunk #3788",
 	"url": "https://www.larvalabs.com/cryptopunks/details/3788",
+	"potentialAction": {
+	"@type": "Action",
+	"name": "Interactions",
+	"url": "https://www.larvalabs.com/cryptopunks/details/3788",
+	"target": [
+		"https://www.mycrypto.com/#contracts",
+		"https://www.myetherwallet.com/#contracts"
+	]
+	 },
 	"creator": {
 		"@type": "Organization",
 		"sameAs": "https://twitter.com/larvalabs",

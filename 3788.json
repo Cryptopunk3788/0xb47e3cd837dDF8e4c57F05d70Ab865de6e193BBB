@@ -4,6 +4,12 @@
 	"@type": "VisualArtwork",
 	//"@id": "https://github.com/Cryptopunk3788/0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB/3788.json",
 	"identifier": "urn:nft:ethereum-mainnet:0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB:3788",
+  "isPartOf": {
+		"@type": "VisualArtwork",
+		"@id": "https://www.larvalabs.com/cryptopunks#visualartwork",
+		"identifier": "urn:nft:ethereum-mainnet:0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
+		"url": "https://www.larvalabs.com/cryptopunks"
+	},
 	"character": {
 		"@type": "Person",
 		"name": "Cryptopunk #3788",
